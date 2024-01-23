@@ -26,6 +26,9 @@
 
    
 }
+#green{
+    background-color: green;
+}
 
 #header-logo{
     width: 165px;
@@ -74,6 +77,21 @@ h6{
  padding: 15px 20px;
  display: flex;
  flex-direction: row;
+}
+
+
+.container{
+    display: flex;
+    flex-direction: column-reverse;
+    
+}
+.container-parts{
+    background-color: #ffffff;
+   
+}
+
+h3,h5{
+    color: black;
 }
 
 
