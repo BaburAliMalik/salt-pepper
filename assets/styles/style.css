@@ -1,0 +1,79 @@
+:root{
+    --red:#f42625;
+    --white:#ffffff;
+    --black:#000000
+}
+/* #navbar{
+    padding: 0px 10px; */
+/* } */
+
+#franchise{
+    border: 1px solid white;
+    color: white;
+    background-color: transparent;
+    padding: 15px 20px ;
+    cursor: pointer;
+    margin-left: 30px;
+}
+
+#order-online{
+    border: 1px solid white;
+    color: white;
+    background-color: var(--red);
+    padding: 15px 20px ;
+    cursor: pointer;
+    margin-left: 10px;
+
+   
+}
+
+#header-logo{
+    width: 165px;
+    margin-right: 400px;
+}
+#main-logo{
+    width: 100%;
+}
+
+#navbar{
+    padding: 0px 10px;
+}
+
+#navbar-items{
+    gap: 30px;
+}
+
+.nav-link{
+text-decoration: none;
+}
+#children-images{
+    gap: 30px;
+}
+.logo{
+    width: 100%;
+}
+.large{
+    font-size: 60px;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h6{
+    color: var(--red);
+}
+
+.direction-btn{
+    border: 1px solid white;
+    color: white;
+ background-color: transparent;
+ padding: 15px 20px;
+ display: flex;
+ flex-direction: row;
+}
+
+

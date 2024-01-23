@@ -1,0 +1,141 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+/* utility classes started */
+
+/* flex started */
+.d-flex{
+    display: flex;
+}
+
+.justify-center{
+justify-content: center;
+}
+
+.justift-between{
+    justify-content: space-between;
+}
+
+.justify-around{
+    justify-content: space-around;
+}
+
+.justify-evenly{
+    justify-content: space-evenly;
+}
+
+.align-center{
+    align-items: center;
+}
+
+.align-between{
+    align-items: space-between;
+}
+
+.align-around{
+    align-items: space-around;
+}
+
+.align-evenly{
+    align-items: space-evenly;
+}
+
+.wrap{
+flex-wrap: wrap;
+}
+
+.flex-row{
+    flex-direction: row;
+}
+
+.flex-column{
+    flex-direction: column;
+}
+
+/* flex ended */
+
+/* margin classes started */
+
+.m-1{
+    margin: 5px;
+    
+}
+.m-2{
+    margin: 10px;
+    
+}
+.m-3{
+    margin: 15px;
+    
+}
+.m-4{
+    margin: 20px;
+    
+}
+.m-1{
+    margin-top: 5px;
+    
+}
+.m-2{
+    margin-top: 10px;
+    
+}
+.m-3{
+    margin-top: 15px;
+    
+}
+.m-4{
+    margin-top: 20px;
+    
+}
+
+/* margin classes endede */
+
+/* bg-color started */
+.bg-light{
+    background-color: #ffffff;
+}
+.bg-dark{
+    background-color: #000000;
+}
+.bg-grey{
+    background-color: #0f0f0f
+}
+
+.center{
+    text-align: center ;
+}
+
+.rounded{
+    border-radius: 30px;
+}
+.rounded-sm{
+    border-radius: 10px;
+}
+.rounded-md{
+    border-radius: 20px;
+}
+/* bg-color ended */
+
+/* text color started */
+
+.text-light{
+    color: #ffffff;
+}
+.text-dark{
+    color: #000000;
+}
+.text-grey{
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.transparent{
+    background-color: transparent;
+}
+/* text color ended */
