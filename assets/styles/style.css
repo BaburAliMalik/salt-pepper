@@ -94,4 +94,15 @@ h3,h5{
     color: black;
 }
 
+.nav{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
 
+
+
+
+#h2-one{
+    font-size: 60px;
+}
